@@ -4,7 +4,7 @@ The project pulls Star Wars API (<a href="https://swapi.dev/">https://swapi.dev/
 
 ## Install
 
-Download or copy thw following files in the repository if you want to make your own copy. 
+Download or copy the following files in the repository if you want to make your own copy. 
 
 1. style.css
 2. index.html
